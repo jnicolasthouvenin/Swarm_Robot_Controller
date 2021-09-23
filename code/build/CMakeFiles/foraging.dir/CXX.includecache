@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jules/Documents/S8/PROD_2/code/src/foraging.cpp
+foraging.h
+/home/jules/Documents/S8/PROD_2/code/src/foraging.h
+argos3/plugins/simulator/entities/cylinder_entity.h
+-
+algorithm
+-
+cstring
+-
+cerrno
+-
+vector
+-
+fstream
+-
+string
+-
+
+/home/jules/Documents/S8/PROD_2/code/src/foraging.h
+argos3/core/simulator/loop_functions.h
+-
+argos3/plugins/robots/foot-bot/simulator/footbot_entity.h
+-
+fstream
+-
+

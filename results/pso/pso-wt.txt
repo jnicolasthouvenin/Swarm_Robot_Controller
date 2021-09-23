@@ -1,0 +1,29 @@
+
+Method:    Wilcoxon rank sum test
+
+Data:      Sol 8 vs Sol 1
+p.value:   0.135763160927082
+
+Data:      Sol 8 vs Sol 2
+p.value:   0.00305867767175242
+
+Data:      Sol 8 vs Sol 3
+p.value:   0.0163135027946846
+
+Data:      Sol 8 vs Sol 4
+p.value:   0.623636422610805
+
+Data:      Sol 8 vs Sol 5
+p.value:   0.541348414162718
+
+Data:      Sol 8 vs Sol 6
+p.value:   0.0188687022002933
+
+Data:      Sol 8 vs Sol 7
+p.value:   0.0381504149538951
+
+Data:      Sol 8 vs Sol 9
+p.value:   0.0208300543124227
+
+Data:      Sol 8 vs Sol 10
+p.value:   0.326106442756126

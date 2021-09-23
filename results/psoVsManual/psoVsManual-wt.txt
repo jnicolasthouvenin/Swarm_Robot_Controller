@@ -1,0 +1,7 @@
+
+Method:    Wilcoxon rank sum test with continuity correction
+Data:      pso.data and manual.data
+Statistic: 183
+p.value:   0.648349557748458
+
+   The null hypothesis can't be rejected
